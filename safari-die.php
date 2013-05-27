@@ -1,0 +1,1 @@
+header("connection: close");

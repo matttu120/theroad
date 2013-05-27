@@ -1,0 +1,37 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="presents.xsl"?>
+<xmas>
+	<family>
+	<present>
+		<to> Aunt Becky</to>
+		<item>RedShawl</item>
+	</present>
+	<present>
+		<to> sparta</to>
+		<item>asdf</item>
+	</present>
+	</family>
+	<friends>
+	<present>
+		<to> jenny</to>
+		<item>dddd</item>
+	</present>
+	<present>
+		<to> dana</to>
+		<item>addddf</item>
+	</present>	
+	</friends>	
+</xmas>
+
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="presents.xsl"?>
+<xmas>
+	<name>Alpha</name>
+        <city>Winter</city>
+<member>
+<name>bob</name>
+<city>spring</city>
+</member>
+<member>
+<name>joe</name>
+<city>summerg</city>
+</member>
+</club>

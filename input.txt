@@ -1,0 +1,6 @@
+ipad=5
+kindle=10
+ipad=5
+kindle=10
+kindle=10
+ipad=5
